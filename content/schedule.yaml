@@ -87,16 +87,16 @@ schedule:
         subtitle: >-
           [Contributing to others](https://coderefinery.github.io/git-collaborative/forking-workflow/)
 
-  - title: "Installation help and shell crash crouse video"
-    date: "2027-03-16"
+  - title: "Shell crash course and installation help"
+    date: "2027-03-15"
     sessions:
-      - starts: 8:00
-        ends: 8:20
+      - starts: 11:00
+        ends: 11:30
         title: Shell crash course
         url: https://youtu.be/xbTTDLA3txI
         subtitle: "This is optional, but recommended to beginners in command line."
-      - starts: 8:20
-        ends: 8:50
+      - starts: 11:30
+        ends: 13:00
         title: Installation help for everybody (optional)
         url: https://coderefinery.github.io/installation/
         subtitle: "Please attend if you need help with the installation instructions. Zoom link will be sent via email."
