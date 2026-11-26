@@ -32,39 +32,29 @@ If you want to "bring your own classroom", get in contact (support(at)coderefine
 To join any of the below mentioned groups, please sign up to the CodeRefinery workshop with your organizational e-mail address (or mention in the free form field that you would like to join one of the local groups). We will soon reach out to share more information about the local groups. Please also let us know if you want your local group to be listed here. 
 
 We collect here the exercise groups that we know:
-- ...
 
 
 ## Instructors
 
-- ...
-
+We will add the list of instructors here later.
 
 ## Workshop organizers
 
-- ...
-
+- Enrico Glerean
+- Diana Iusan
+- Samantha Wittke
 
 ## On-boarding
 
-- ...
-
-
-## Outreach
-
-- ...
-
+- TBA
+- TBA
 
 ## Recording and broadcasting
 
-- ...
+- Patricia Hernández León
+- Nguyen Luong
 
+## Local organizers, notes helpers and team leads
 
-## Local organizers and team leads
-
-- ...
-
-
-## Collaborative notes managers
-
-- ...
+- TBA
+- and you?
